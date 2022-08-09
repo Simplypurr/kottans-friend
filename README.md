@@ -21,11 +21,16 @@
 
 ### Make a screenshots of finished lessons at linux_cli and put their in kottans-repo folder. 
 ***
-### Add screenshot links to README.md.
-  >[Screenshot module 1](./task_linux_cli/quiz1.png)
-  >[Screenshot module 2](./task_linux_cli/quiz2.png)
-  >[Screenshot module 3](./task_linux_cli/quiz3.png)
-  >[Screenshot module 4](./task_linux_cli/quiz4.png)
+### Add screenshot links to README.md :shipit:.
+
+  1. [Screenshot module 1](./task_linux_cli/quiz1.png)
+  
+  2. [Screenshot module 2](./task_linux_cli/quiz2.png)
+  
+  3. [Screenshot module 3](./task_linux_cli/quiz3.png)
+  
+  4. [Screenshot module 4](./task_linux_cli/quiz4.png)
+
 *** 
 ### Describe your impressions about learned materials:
    + name (at least) one thing that was new to you:
