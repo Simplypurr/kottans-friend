@@ -4,7 +4,7 @@
 
 ### Create repository named kottans-friend. 
 ***
-### Create README.md for the repository. 
+### Create README.md for the repository:shipit:. 
 ***
 ### Describe your impressions about learned materials:
    + name (at least) one thing that was new to you:
@@ -50,16 +50,20 @@
 
 ### Make a screenshots of finished lessons at [Coursera git course](https://www.coursera.org/learn/introduction-git-github) and [learngitbranch.js](https://learngitbranching.js.org/?locale=uk) and put their in kottans-repo folder. 
 ***
-### Add screenshot links to README.md.
-  * Coursera git course:
-    1. [Screenshot module 1](./git_collaboration/git_coursera_module_1.png)
-    2. [Screenshot module 2](./git_collaboration/git_coursera_module_2.png)
-    3. [Screenshot module 3](./git_collaboration/git_coursera_module_3.png)
-    4. [Screenshot module 4](./git_collaboration/git_coursera_module_4.png)
+### Add screenshot links to README.md:shipit:.
+   * Coursera git course:
+   1. [Screenshot module 1](./git_collaboration/git_coursera_module_1.png)
+   
+   2. [Screenshot module 2](./git_collaboration/git_coursera_module_2.png)
+   
+   3. [Screenshot module 3](./git_collaboration/git_coursera_module_3.png)
+   
+   4. [Screenshot module 4](./git_collaboration/git_coursera_module_4.png)
 
-  * Learngitbranch.js:
-    1. [Screenshot module 1](./git_collaboration/learngitbranch1.png)
-    2. [Screenshot module 1](./git_collaboration/learngitbranch2.png) 
+   * Learngitbranch.js:
+   1. [Screenshot module 1](./git_collaboration/learngitbranch1.png)
+   
+   2. [Screenshot module 2](./git_collaboration/learngitbranch2.png) 
 *** 
 ### Describe your impressions about learned materials:
    + name (at least) one thing that was new to you:
