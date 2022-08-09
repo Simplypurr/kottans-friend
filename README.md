@@ -15,7 +15,9 @@
      >I'll try to implement any possible knowledge in my future projects.
 ***
 ### Send pull-request here [Kottans/mock-repo](https://github.com/Kottans/mock-repo)
-***
+
+
+
 
 ## [Linux, Command Line, HTTP Tools](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
 
@@ -39,5 +41,32 @@
      >Commands $man and $finger
    + name (at least) one thing you intend to use in the future
      >I'll work with directories and data more fluently than before.
+***
+
+
+
+
+## [Git Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
+
+### Make a screenshots of finished lessons at [Coursera git course](https://www.coursera.org/learn/introduction-git-github) and [learngitbranch.js](https://learngitbranching.js.org/?locale=uk) and put their in kottans-repo folder. 
+***
+### Add screenshot links to README.md.
+  * Coursera git course:
+    1. [Screenshot module 1](./git_collaboration/git_coursera_module_1.png)
+    2. [Screenshot module 2](./git_collaboration/git_coursera_module_2.png)
+    3. [Screenshot module 3](./git_collaboration/git_coursera_module_3.png)
+    4. [Screenshot module 4](./git_collaboration/git_coursera_module_4.png)
+
+  * Learngitbranch.js:
+    1. [Screenshot module 1](./git_collaboration/learngitbranch1.png)
+    2. [Screenshot module 1](./git_collaboration/learngitbranch2.png) 
+*** 
+### Describe your impressions about learned materials:
+   + name (at least) one thing that was new to you:
+     >A bunch of some new functionality with git and github.
+   + name (at least) one thing that surprised you:
+     >git rebase command and work with branches
+   + name (at least) one thing you intend to use in the future
+     >I can't wait to apply new knowledge to a real life projects.
 ***
 
