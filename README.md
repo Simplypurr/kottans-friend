@@ -91,3 +91,66 @@
 
 </p>
 </details>
+
+
+### Front-End Basics
+
+<details><summary>Intro to HTML & CSS</summary>
+<p>
+
+## [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md) 
+
+### Take a course [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers) (Till "Introduction to Responsive design) and [Learn HTML](https://www.codecademy.com/learn/learn-html) & [Learn CSS](https://www.codecademy.com/learn/learn-css)
+***
+### Add screenshot links to README.md:shipit:.
+  * Intro to HTML & CSS
+  1. [Screenshot module 1](./intro_html_css/coursera_html_week1.png)
+
+  2. [Screenshot module 2](./intro_html_css/coursera_html_week2.png)
+
+  * Learn HTML & Learn CSS
+  1. [Screenshot](./intro_html_css/codecademy.png)
+***
+### Describe your impressions about learned materials:
+   + name (at least) one thing that was new to you:
+     >I've been familiar with html and css basics.
+   + name (at least) one thing that surprised you:
+     >Difficult to say cause most of information I've known till this course.
+   + name (at least) one thing you intend to use in the future
+     >I'll be using html and css for building web-pages :)
+***
+
+</p>
+</details>
+
+
+
+<details><summary>Responsive web design</summary>
+<p>
+
+## [Responsive web design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md) 
+
+### [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+### [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x) 
+### [Flexbox Froggy](http://flexboxfroggy.com/)
+### [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+### [Grid Garden](http://cssgridgarden.com/)
+***
+### Add screenshot links to README.md:shipit:.
+  * Flexbox Froggy
+  1. [Screenshot](./responsive_web_design/froggy.png)
+
+  * Grid Garden
+  1. [Screenshot](./responsive_web_design/garden.png)
+***
+### Describe your impressions about learned materials:
+   + name (at least) one thing that was new to you:
+     >Interesting concepts of a responsive design like images reset.
+   + name (at least) one thing that surprised you:
+     >New features 'any-hover' and 'any-pointer'.
+   + name (at least) one thing you intend to use in the future
+     >I'll be using flex and grid for responsive layouts.
+***
+
+</p>
+</details>
