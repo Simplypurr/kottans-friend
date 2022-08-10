@@ -1,4 +1,4 @@
-# kottans-friend
+# kottans-frontend
 
 #### This repo has been created for track progress
 
