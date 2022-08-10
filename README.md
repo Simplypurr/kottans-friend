@@ -1,6 +1,15 @@
 # kottans-friend
 
-## [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
+#### This repo has been created for track progress
+
+## [Stage 0](https://github.com/kottans/frontend/blob/2022_UA/contents.md)
+
+### General
+
+<details><summary>Git Basics</summary>
+<p>
+
+## [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md) 
 
 ### Create repository named kottans-friend. 
 ***
@@ -15,9 +24,12 @@
      >I'll try to implement any possible knowledge in my future projects.
 ***
 ### Send pull-request here [Kottans/mock-repo](https://github.com/Kottans/mock-repo)
+</p>
+</details>
 
 
-
+<details><summary>Linux, Command Line, HTTP Tools</summary>
+<p>
 
 ## [Linux, Command Line, HTTP Tools](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
 
@@ -43,8 +55,11 @@
      >I'll work with directories and data more fluently than before.
 ***
 
+</p>
+</details>
 
-
+<details><summary>Git Collaboration</summary>
+<p>
 
 ## [Git Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
 
@@ -74,3 +89,5 @@
      >I can't wait to apply new knowledge to a real life projects.
 ***
 
+</p>
+</details>
