@@ -154,3 +154,50 @@
 
 </p>
 </details>
+
+<details><summary>HTML & CSS Practice</summary>
+<p>
+
+## [Code Base](https://github.com/Simplypurr/hooli_style_popup) 
+***
+## [Live Demo](https://simplypurr.github.io/hooli_style_popup/dist/)
+***
+## [PR link](https://github.com/kottans/frontend-2022-homeworks/pull/130)
+***
+
+### Describe your impressions about learned materials:
+   + name (at least) one thing that was new to you:
+     >It was difficult task, I've known a lot of interesting techniques of how to implement dynamic elements on the page only via html&css.
+   + name (at least) one thing that surprised you:
+     >That possibly create popup just with checkbox.
+   + name (at least) one thing you intend to use in the future
+     >I definitely will use a custom checkboxes, big thanks to kottans for useful information!
+***
+
+</p>
+</details>
+
+<details><summary>JS Basics</summary>
+<p>
+
+## [FreeCodeCamp exercises](https://www.freecodecamp.org/learn)
+***
+### [Basic JavaScript](./js_basics/basic_js.png) 
+### [ES6](./js_basics/es6.png)
+### [Basic Data Structures](./js_basics/dataStructures.png)
+### [Basic Algorithm Scripting](./js_basics/algorithmScripting.png)
+### [Functional Programming](./js_basics/functionalProgramming.png)
+### [Intermediate Algorithm Scripting](./js_basics/intermediateAlgorithmScripting.png)
+***
+
+### Describe your impressions about learned materials:
+   + name (at least) one thing that was new to you:
+     >The most difficult task for me, cause I've faced to JavaScript for the first time and programming at all.
+   + name (at least) one thing that surprised you:
+     >A lot of things surprised me, cause all information was completely new for me.
+   + name (at least) one thing you intend to use in the future
+     >JavaScript is the core of web-development!
+***
+
+</p>
+</details>
